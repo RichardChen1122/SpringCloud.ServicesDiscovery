@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringCould.Service1", "SpringCould.Service1\SpringCould.Service1.csproj", "{37C347C4-F245-4C34-87F4-6E43EBE7F09D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C347C4-F245-4C34-87F4-6E43EBE7F09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C347C4-F245-4C34-87F4-6E43EBE7F09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C347C4-F245-4C34-87F4-6E43EBE7F09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C347C4-F245-4C34-87F4-6E43EBE7F09D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51BC759-C7AF-4A67-BA1A-E65BE01018AA}
+	EndGlobalSection
+EndGlobal

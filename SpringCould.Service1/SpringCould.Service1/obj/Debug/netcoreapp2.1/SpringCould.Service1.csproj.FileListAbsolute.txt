@@ -1,0 +1,14 @@
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.deps.json
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.runtimeconfig.json
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.runtimeconfig.dev.json
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.dll
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.csprojAssemblyReference.cache
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.csproj.CoreCompileInputs.cache
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.RazorAssemblyInfo.cache
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.RazorAssemblyInfo.cs
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.AssemblyInfoInputs.cache
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.AssemblyInfo.cs
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.RazorTargetAssemblyInfo.cache
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.pdb
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.dll
+C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.pdb
