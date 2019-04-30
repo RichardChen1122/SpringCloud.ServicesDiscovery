@@ -12,3 +12,17 @@ C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debu
 C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.pdb
 C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.dll
 C:\Users\v-juche\source\repos\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.pdb
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.deps.json
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.runtimeconfig.json
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.runtimeconfig.dev.json
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.dll
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\bin\Debug\netcoreapp2.1\SpringCould.Service1.pdb
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.csprojAssemblyReference.cache
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.csproj.CoreCompileInputs.cache
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.RazorAssemblyInfo.cache
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.RazorAssemblyInfo.cs
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.AssemblyInfoInputs.cache
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.AssemblyInfo.cs
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.RazorTargetAssemblyInfo.cache
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.dll
+D:\dev\SpringCloud.Eureka\SpringCould.Service1\SpringCould.Service1\obj\Debug\netcoreapp2.1\SpringCould.Service1.pdb

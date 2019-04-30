@@ -13,6 +13,8 @@ using Microsoft.Extensions.Options;
 using SpringCould.Service1.Controllers;
 using Steeltoe.Common.Http.Discovery;
 using Steeltoe.Discovery.Client;
+using Swashbuckle.AspNetCore.Swagger;
+using Swashbuckle.AspNetCore.SwaggerUI;
 
 namespace SpringCould.Service1
 {
@@ -29,6 +31,10 @@ namespace SpringCould.Service1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDiscoveryClient(Configuration);
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Info { Title = "My API", Version = "v1" });
+            });
             //services.AddTransient<DiscoveryHttpMessageHandler>();
 
             // Configure a HttpClient
@@ -46,7 +52,11 @@ namespace SpringCould.Service1
         {
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
-
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            });
             //app.UseHttpsRedirection();
             app.UseMvc();
             app.UseDiscoveryClient();
